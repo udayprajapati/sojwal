@@ -1,0 +1,67 @@
+
+ control statement-top to bottom apporach.
+
+-decision making statement-decide which statement executes and when evalutes boolean expression to controlthe flow of program.
+-if statement-if,if-else,if-else-if and nested if
+if(10>80){
+ print true
+}
+
+if(5<10){
+ print true
+}else
+{
+  print false
+}
+
+
+-switch case statement
+switch(varible or expression){
+ 
+case value1:
+       //code be excuted
+      break;
+case value 2:
+          //code be excuted
+      break;
+ default: code to be excuted if no case matched.
+
+
+
+
+-loop statement
+-do while
+-while
+-for loop
+
+-jump statement
+-break
+-continue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
